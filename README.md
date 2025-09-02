@@ -2,6 +2,8 @@
 
 A Flutter mobile application for tracking strength training workouts with clean architecture and comprehensive testing.
 
+![image_int](https://github.com/Fmaj1234/magic_bench/blob/926064207ae8c209a00a51fdd3d4790bdbed4eb4/IMG_5286.jpg)
+
 ## Features
 
 - Create, edit, and delete workout sessions
